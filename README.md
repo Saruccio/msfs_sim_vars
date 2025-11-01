@@ -29,4 +29,6 @@ This utility helps identify which simulation variables are currently active duri
    - Standard variables will show a single value.
    - Indexed variables will show a list of values (e.g., `[value 1, value 2]`).
 
-
+## Disclaimer
+These tools are released into the public domain in the hope that they may be useful to the MSFS development and cockpit-building community. However, they are provided as-is, without any guarantees of accuracy, completeness, or reliability. Simulation variables and documentation may change over time, and results may vary depending on aircraft, configuration, and MSFS updates.
+Use at your own discretion. Contributions and improvements are welcome!
